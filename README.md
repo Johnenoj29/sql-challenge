@@ -40,7 +40,7 @@ Use the provided information to create a table schema for each of the six CSV fi
 
 **Bonus**
 
-**Please view my answer in John_Bonus_SQL_assignment.ipynb**
+**Please view my answer in Bonus_SQL_assignment.ipynb**
 
 1.  Please create config,py file and add your password for Postgres PG Admin.
 2.  Create a histogram to visualise the employee salary ranges that were the most common.
